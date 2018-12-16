@@ -1,0 +1,19 @@
+{
+  "name": "soch",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riito-company/SoCh.git"
+  },
+  "author": "Riito-company",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riito-company/SoCh/issues"
+  },
+  "homepage": "https://github.com/riito-company/SoCh#readme"
+}
